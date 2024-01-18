@@ -1,16 +1,11 @@
 import '@mantine/core/styles.css';
 
 import { ColorSchemeScript, MantineProvider } from '@mantine/core';
-import Home from './components/Home';
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
 import Navbar from './components/Navbar'
 import '@mantine/core/styles.css';
-import About from './components/About';
-import News from './components/News';
-import Watch from './components/Watch';
-import Contact from './components/Contact';
 
 
 
@@ -37,11 +32,7 @@ export default function RootLayout({
         
 
         <Navbar/>
-        <Home/>
-        <About/>
-        <News/>
-        <Watch/>
-        <Contact/>
+        
         <h1>hello</h1>
         {children}</body>
     </html>

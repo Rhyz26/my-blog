@@ -1,9 +1,8 @@
-import Home from './components/Home'
 import Image from 'next/image'
 import '@mantine/core/styles.css';
 
 
-export default function Page() {
+export default function Home() {
   return (
     <main>
       
