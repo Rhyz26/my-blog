@@ -10,8 +10,8 @@ export default function News () {
     
     <MantineProvider>
   <div className='flex gap-2 ml-2 mr-2 pb-2'>
-
-
+      
+      
 
 <Card shadow="sm" padding="lg" radius="md" withBorder>
       <Card.Section>

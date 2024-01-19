@@ -32,7 +32,7 @@ Hey there, fellow football enthusiasts! I'm Raymond Njagala, the passionate foot
 <h1> Our Mission:</h1>
 <p>
 
-At [Your Blog Name], our mission is clear - we're here to celebrate the magic of football in all its glory. Whether it's dissecting tactical masterclasses, sharing thrilling match reviews, or diving into the personal stories of the players who grace the pitch, we're committed to delivering engaging and insightful content that resonates with you, the fans.
+At Sports dose, our mission is clear - we're here to celebrate the magic of football in all its glory. Whether it's dissecting tactical masterclasses, sharing thrilling match reviews, or diving into the personal stories of the players who grace the pitch, we're committed to delivering engaging and insightful content that resonates with you, the fans.
 </p>
 
 
@@ -53,7 +53,7 @@ Football is more than just a sport; it's a community. And that's precisely what 
 <h1>Content You Can Expect:</h1>
 
 <p>
-  At Sports Dose, we're committed to delivering a diverse range of content. Whether you're looking for in-depth analyses, matchday previews, or exclusive interviews, we've got you covered. Expect fresh content [Frequency] to keep the football flame burning bright.
+  At Sports Dose, we're committed to delivering a diverse range of content. Whether you're looking for in-depth analyses, matchday previews, or exclusive interviews, we've got you covered. Expect fresh Content to keep the football flame burning bright.
   </p>
 
 

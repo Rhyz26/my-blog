@@ -5,6 +5,7 @@ import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
 import Navbar from './components/Navbar'
+import Footer from './components/Footer';
 import '@mantine/core/styles.css';
 
 
@@ -32,8 +33,9 @@ export default function RootLayout({
         
 
         <Navbar/>
+        <Footer/>
         
-        <h1>hello</h1>
+      
         {children}</body>
     </html>
   )
